@@ -1,0 +1,16 @@
+# Eclipse files
+.classpath
+.project
+.settings
+
+# TestNG stuff
+test-output/
+
+#Maven stuff
+target/
+
+# Generic java stuff
+*.class
+*.jar
+*.war
+*.ear
